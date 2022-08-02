@@ -1,0 +1,1 @@
+C:\Users\Lorenzo\Documents\prog\Rust\CheeseAdventure\target\debug\CheeseAdventure.exe: C:\Users\Lorenzo\Documents\prog\Rust\CheeseAdventure\src\drawable.rs C:\Users\Lorenzo\Documents\prog\Rust\CheeseAdventure\src\main.rs

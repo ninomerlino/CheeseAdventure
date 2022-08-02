@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckForPthreads.c
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckFunctionExists.c
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/raylib/src/external/glfw/CMake/glfw3.pc.in
+C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/raylib/src/external/glfw/CMake/glfw3Config.cmake.in
+C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/raylib/src/external/glfw/CMakeLists.txt
+C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/raylib/src/external/glfw/src/glfw_config.h.in

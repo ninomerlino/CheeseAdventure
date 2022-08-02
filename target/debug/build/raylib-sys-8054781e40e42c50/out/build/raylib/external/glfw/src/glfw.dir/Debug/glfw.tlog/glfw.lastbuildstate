@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit:WindowsTargetPlatformVersion=10.0.18362.0
+Debug|x64|C:\Users\Lorenzo\Documents\prog\Rust\CheeseAdventure\target\debug\build\raylib-sys-8054781e40e42c50\out\build\raylib\external\glfw\src\|
