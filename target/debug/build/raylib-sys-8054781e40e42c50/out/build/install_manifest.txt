@@ -1,9 +1,0 @@
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/lib/raylib.lib
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/include/raylib.h
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/include/rlgl.h
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/include/physac.h
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/include/raymath.h
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/include/raudio.h
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/lib/pkgconfig/raylib.pc
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/lib/cmake/raylib/raylib-config-version.cmake
-C:/Users/Lorenzo/Documents/prog/Rust/CheeseAdventure/target/debug/build/raylib-sys-8054781e40e42c50/out/lib/cmake/raylib/raylib-config.cmake
