@@ -25,22 +25,22 @@ impl Mouse {
     }
     pub fn cycle(&mut self, handle: &mut RaylibHandle) {
         if handle.is_key_down(KEY_A) {
-            if (self.node.pos.x > 0.0) {
+            if (self.node.pos.x > -3.0) {
                 self.direction = Direction::LEFT;
                 self.node.node.pos.x -= self.speed;
             }
         } else if handle.is_key_down(KEY_D) {
-            if (self.node.pos.x < 55.0) {
+            if (self.node.pos.x < 58.0) {
                 self.direction = Direction::RIGHT;
                 self.node.node.pos.x += self.speed;
             }
         } else if handle.is_key_down(KEY_W) {
-            if (self.node.pos.y < 55.0) {
+            if (self.node.pos.y < 58.0) {
                 self.direction = Direction::UP;
                 self.node.node.pos.y += self.speed;
             }
         } else if handle.is_key_down(KEY_S) {
-            if (self.node.pos.y > 0.0) {
+            if (self.node.pos.y > -3.0) {
                 self.direction = Direction::DOWN;
                 self.node.node.pos.y -= self.speed;
             }
@@ -434,7 +434,7 @@ impl Game {
                 Gamestate::MainMenu
             }else{
                 if(r_handle.is_key_released(KEY_A)){
-                    self.option_button.click();
+                    device.play_sound(&self.texture_manager.clicksound);
                     self.back.click();
                 }else if(r_handle.is_key_released(KEY_X)){
                     if(self.volume.value < 100){
