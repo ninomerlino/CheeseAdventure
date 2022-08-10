@@ -1,0 +1,5 @@
+The game is simple:
+- use w,a,s,d to move
+- capture all the cheese to make the exit appear
+- take the exit to the next level
+- do all of this avoiding the evil insects that want to eat you
